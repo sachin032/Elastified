@@ -1,0 +1,10 @@
+{"index":{"_index":"person" ,"_type":"employee","_id":1}}
+{"first_name":"Richard","last_name":"Schmidt","email":"rschmidt0@google.de","gender":"Male","ip_address":"226.156.46.62","geo_Location":"118.36132"}
+{"index":{"_index":"person" ,"_type":"employee","_id":2}}
+{"first_name":"Shawn","last_name":"Rose","email":"srose1@trellian.com","gender":"Male","ip_address":"180.167.82.11","geo_Location":"17.4"}
+{"index":{"_index":"person" ,"_type":"employee","_id":3}}
+{"first_name":"Fred","last_name":"Gonzalez","email":"fgonzalez2@list-manage.com","gender":"Male","ip_address":"83.6.236.233","geo_Location":"114.93892"}
+{"index":{"_index":"person" ,"_type":"employee","_id":4}}
+{"first_name":"Paula","last_name":"Dunn","email":"pdunn3@tripod.com","gender":"Female","ip_address":"144.109.191.86","geo_Location":"-88.6"}
+{"index":{"_index":"person" ,"_type":"employee","_id":5}}
+{"first_name":"Kimberly","last_name":"Phillips","email":"kphillips4@opera.com","gender":"Female","ip_address":"226.107.117.239","geo_Location":"39.72328"}
