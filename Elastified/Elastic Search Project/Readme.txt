@@ -10,7 +10,6 @@ Basic components   :
 
 Contributors       :
                     @shaun
-                    @dpaul
 
 Structure          :
 
